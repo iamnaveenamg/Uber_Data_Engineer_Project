@@ -1,21 +1,21 @@
 [
   {
     "city_id": 1,
-    "city": "New New York",
+    "city": "New New New York",
     "state": "NY",
     "region": "Northeast",
     "updated_at": "2026-07-24T19:57:49.436+00:00"
   },
   {
     "city_id": 2,
-    "city": "New Los Vegas",
+    "city": "New New  Los Vegas",
     "state": "CA",
     "region": "West",
     "updated_at": "2026-07-23T19:57:49.436+00:00"
   },
   {
     "city_id": 3,
-    "city": "Chicago",
+    "city": "New Chicago",
     "state": "IL",
     "region": "Midwest",
     "updated_at": "2026-07-23T17:57:49.436+00:00"
@@ -23,7 +23,7 @@
   },
   {
     "city_id": 4,
-    "city": "New Houston",
+    "city": "New New  Houston",
     "state": "TX",
     "region": "South",
     "updated_at": "2026-07-23T19:57:49.436+00:00"
