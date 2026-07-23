@@ -4,11 +4,11 @@
     "city": "New York",
     "state": "NY",
     "region": "Northeast",
-    "updated_at": "2026-07-23T17:57:49.436+00:00"
+    "updated_at": "2026-07-24T17:57:49.436+00:00"
   },
   {
     "city_id": 2,
-    "city": "Los Angelas",
+    "city": "Los Vegas",
     "state": "CA",
     "region": "West",
     "updated_at": "2026-07-23T17:57:49.436+00:00"
