@@ -1,62 +1,80 @@
 [
   {
     "city_id": 1,
-    "city": "New York",
+    "city": "New New New York",
     "state": "NY",
-    "region": "Northeast"
+    "region": "Northeast",
+    "updated_at": "2026-07-24T19:57:49.436+00:00"
   },
   {
     "city_id": 2,
-    "city": "Los Angelas",
+    "city": "New New  Los Vegas",
     "state": "CA",
-    "region": "West"
+    "region": "West",
+    "updated_at": "2026-07-23T19:57:49.436+00:00"
   },
   {
     "city_id": 3,
-    "city": "Chicago",
+    "city": "New Chicago",
     "state": "IL",
-    "region": "Midwest"
+    "region": "Midwest",
+    "updated_at": "2026-07-23T17:57:49.436+00:00"
+
   },
   {
     "city_id": 4,
-    "city": "Houston",
+    "city": "New New  Houston",
     "state": "TX",
-    "region": "South"
+    "region": "South",
+    "updated_at": "2026-07-23T19:57:49.436+00:00"
+
   },
   {
     "city_id": 5,
-    "city": "Phoenix",
+    "city": "New Phoenix",
     "state": "AZ",
-    "region": "Southwest"
+    "region": "Southwest",
+    "updated_at": "2026-07-23T19:57:49.436+00:00"
+
   },
   {
     "city_id": 6,
-    "city": "Philadelphia",
+    "city": "New Philadelphia",
     "state": "PA",
-    "region": "Northeast"
+    "region": "Northeast",
+    "updated_at": "2026-07-23T19:57:49.436+00:00"
+
   },
   {
     "city_id": 7,
-    "city": "San Antonio",
+    "city": "New San Antonio",
     "state": "TX",
-    "region": "South"
+    "region": "South",
+    "updated_at": "2026-07-23T19:57:49.436+00:00"
+
   },
   {
     "city_id": 8,
-    "city": "San Diego",
+    "city": "New San Diego",
     "state": "CA",
-    "region": "West"
+    "region": "West",
+    "updated_at": "2026-07-23T19:57:49.436+00:00"
+
   },
   {
     "city_id": 9,
-    "city": "Dallas",
+    "city": "New Dallas",
     "state": "TX",
-    "region": "South"
+    "region": "South",
+    "updated_at": "2026-07-23T19:57:49.436+00:00"
+
   },
   {
     "city_id": 10,
-    "city": "San Jose",
+    "city": "New San Jose",
     "state": "CA",
-    "region": "West"
+    "region": "West",
+    "updated_at": "2026-07-23T19:57:49.436+00:00"
+
   }
 ]
