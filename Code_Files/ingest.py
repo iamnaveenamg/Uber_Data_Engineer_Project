@@ -2,9 +2,11 @@ from pyspark import pipelines as dp
 from pyspark.sql.functions import *
 from pyspark.sql.types import *
 
+# Spark will initialized by Databricks
+
 
 # Event Hubs configuration
-EH_NAMESPACE  = "uberevents"
+EH_NAMESPACE  = "ubereventsmgn"
 EH_NAME = "ubertopic"
 
 
@@ -33,10 +35,3 @@ def rides_raw():
     df = df.withColumn("rides",col("value").cast("string"))
 
     return df
-
-
-
-
-
-
-
